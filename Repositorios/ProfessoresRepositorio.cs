@@ -5,32 +5,29 @@ using SenaiApi.Repositorios.Interface;
 
 namespace SenaiApi.Repositorios
 {
-    public class EscolaRepositorio : BaseRepository<Escola>, IEscolaRepositorio
+    public class ProfessoresRepositorio : BaseRepository<Professor>, IProfessoresRepositorio
     {
         private readonly SenaiContext _context;
 
-        public EscolaRepositorio(SenaiContext context) : base(context)
+        public ProfessoresRepositorio(SenaiContext context) : base(context) 
         {
             _context = context;
         }
-        public void Salvar(Escola escola)
+        public void Salvar(Professor professor)
         {
-            base.Salvar(escola);
+            base.Salvar(professor);
         }
-        public List<Escola> PegarTodos() 
+
+        public IQueryable<Professor> PegarTodos()
         {
-            return base.PegarTodos()
-                .Include(c => c.Endereco)
-                .Include(c => c.Professor)
-                .ToList();
+            return base.PegarTodos();
         }
 
         public async Task<bool> Delete(long id)
         {
             return await base.Delete(id);
         }
-
-        public Escola ObterPorId(long id)
+        public Professor ObterPorId(long id)
         {
             return base.ObterPorId(id);
         }

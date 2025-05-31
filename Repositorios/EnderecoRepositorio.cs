@@ -1,36 +1,32 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using SenaiApi.Contexto;
+using SenaiApi.DTos;
 using SenaiApi.Entidades;
 using SenaiApi.Repositorios.Interface;
 
 namespace SenaiApi.Repositorios
 {
-    public class EscolaRepositorio : BaseRepository<Escola>, IEscolaRepositorio
+    public class EnderecoRepositorio : BaseRepository<Endereco>, IEnderecoRepositorio
     {
         private readonly SenaiContext _context;
 
-        public EscolaRepositorio(SenaiContext context) : base(context)
+        public EnderecoRepositorio(SenaiContext context) : base(context)
         {
             _context = context;
         }
-        public void Salvar(Escola escola)
+        public void Salvar(Endereco endereco)
         {
-            base.Salvar(escola);
+            base.Salvar(endereco);
         }
-        public List<Escola> PegarTodos() 
+        public IQueryable<Endereco> PegarTodos()
         {
-            return base.PegarTodos()
-                .Include(c => c.Endereco)
-                .Include(c => c.Professor)
-                .ToList();
+            return base.PegarTodos();
         }
-
         public async Task<bool> Delete(long id)
         {
             return await base.Delete(id);
         }
-
-        public Escola ObterPorId(long id)
+        public Endereco ObterPorId(long id)
         {
             return base.ObterPorId(id);
         }

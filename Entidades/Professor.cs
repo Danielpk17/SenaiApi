@@ -6,7 +6,7 @@ namespace SenaiApi.Entidades
     {
         [Required]
         [MaxLength(60)]
-        public string Nome { get; set; }
+        public string? Nome { get; set; }
         public Classe Classes { get; set; }
 
         public long EscolaId { get; set; }

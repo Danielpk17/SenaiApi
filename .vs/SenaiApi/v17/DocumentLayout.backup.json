@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|c:\\users\\daniel_piva\\desktop\\traineeapi\\senaiapi\\controllers\\escolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|solutionrelative:controllers\\escolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|c:\\users\\daniel_piva\\desktop\\traineeapi\\senaiapi\\servicos\\interface\\iescolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|solutionrelative:servicos\\interface\\iescolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|c:\\users\\daniel_piva\\desktop\\traineeapi\\senaiapi\\servicos\\escolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|solutionrelative:servicos\\escolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|c:\\users\\daniel_piva\\desktop\\traineeapi\\senaiapi\\repositorios\\escolarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|solutionrelative:repositorios\\escolarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|c:\\users\\daniel_piva\\desktop\\traineeapi\\senaiapi\\repositorios\\interface\\iprofessoresrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|solutionrelative:repositorios\\interface\\iprofessoresrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|c:\\users\\daniel_piva\\desktop\\traineeapi\\senaiapi\\repositorios\\interface\\iescolarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|solutionrelative:repositorios\\interface\\iescolarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|c:\\users\\daniel_piva\\desktop\\traineeapi\\senaiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|c:\\users\\daniel_piva\\desktop\\traineeapi\\senaiapi\\repositorios\\interface\\ienderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|solutionrelative:repositorios\\interface\\ienderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|c:\\users\\daniel_piva\\desktop\\traineeapi\\senaiapi\\repositorios\\professoresrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|solutionrelative:repositorios\\professoresrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|c:\\users\\daniel_piva\\desktop\\traineeapi\\senaiapi\\servicos\\professoresservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|solutionrelative:servicos\\professoresservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|c:\\users\\daniel_piva\\desktop\\traineeapi\\senaiapi\\entidades\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|solutionrelative:entidades\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|c:\\users\\daniel_piva\\desktop\\traineeapi\\senaiapi\\repositorios\\escolarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|solutionrelative:repositorios\\escolarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|c:\\users\\daniel_piva\\desktop\\traineeapi\\senaiapi\\repositorios\\enderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00D3ABF-92EA-4F3E-B95F-D71C804597C4}|SenaiApi.csproj|solutionrelative:repositorios\\enderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,91 +42,107 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IEscolaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Repositorios\\Interface\\IEscolaRepositorio.cs",
-              "RelativeDocumentMoniker": "Repositorios\\Interface\\IEscolaRepositorio.cs",
-              "ToolTip": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Repositorios\\Interface\\IEscolaRepositorio.cs",
-              "RelativeToolTip": "Repositorios\\Interface\\IEscolaRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T12:39:27.474Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "EscolaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Repositorios\\EscolaRepositorio.cs",
               "RelativeDocumentMoniker": "Repositorios\\EscolaRepositorio.cs",
               "ToolTip": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Repositorios\\EscolaRepositorio.cs",
               "RelativeToolTip": "Repositorios\\EscolaRepositorio.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAArwCAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T11:42:14.145Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T12:02:57.657Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T13:23:15.12Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EscolaService.cs",
-              "DocumentMoniker": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Servicos\\EscolaService.cs",
-              "RelativeDocumentMoniker": "Servicos\\EscolaService.cs",
-              "ToolTip": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Servicos\\EscolaService.cs",
-              "RelativeToolTip": "Servicos\\EscolaService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Title": "IEnderecoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Repositorios\\Interface\\IEnderecoRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\Interface\\IEnderecoRepositorio.cs",
+              "ToolTip": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Repositorios\\Interface\\IEnderecoRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\Interface\\IEnderecoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T12:54:10.988Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-05-31T13:55:15.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IEscolaService.cs",
-              "DocumentMoniker": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Servicos\\Interface\\IEscolaService.cs",
-              "RelativeDocumentMoniker": "Servicos\\Interface\\IEscolaService.cs",
-              "ToolTip": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Servicos\\Interface\\IEscolaService.cs",
-              "RelativeToolTip": "Servicos\\Interface\\IEscolaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Title": "IEscolaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Repositorios\\Interface\\IEscolaRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\Interface\\IEscolaRepositorio.cs",
+              "ToolTip": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Repositorios\\Interface\\IEscolaRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\Interface\\IEscolaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T11:57:49.133Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-05-31T13:54:53.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EscolaController.cs",
-              "DocumentMoniker": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Controllers\\EscolaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EscolaController.cs",
-              "ToolTip": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Controllers\\EscolaController.cs",
-              "RelativeToolTip": "Controllers\\EscolaController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAmAAAAAAAAAA==",
+              "Title": "IProfessoresRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Repositorios\\Interface\\IProfessoresRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\Interface\\IProfessoresRepositorio.cs",
+              "ToolTip": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Repositorios\\Interface\\IProfessoresRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\Interface\\IProfessoresRepositorio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T12:51:38.947Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-05-31T13:52:23.558Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfessoresServico.cs",
+              "DocumentMoniker": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Servicos\\ProfessoresServico.cs",
+              "RelativeDocumentMoniker": "Servicos\\ProfessoresServico.cs",
+              "ToolTip": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Servicos\\ProfessoresServico.cs",
+              "RelativeToolTip": "Servicos\\ProfessoresServico.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:52:09.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnderecoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Repositorios\\EnderecoRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\EnderecoRepositorio.cs",
+              "ToolTip": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Repositorios\\EnderecoRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\EnderecoRepositorio.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAjwBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:45:51.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Entidades\\Professor.cs",
+              "RelativeDocumentMoniker": "Entidades\\Professor.cs",
+              "ToolTip": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Entidades\\Professor.cs",
+              "RelativeToolTip": "Entidades\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:45:29.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfessoresRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Repositorios\\ProfessoresRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\ProfessoresRepositorio.cs",
+              "ToolTip": "C:\\Users\\daniel_piva\\Desktop\\TraineeAPI\\SenaiApi\\Repositorios\\ProfessoresRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\ProfessoresRepositorio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:45:23.036Z"
             }
           ]
         }
