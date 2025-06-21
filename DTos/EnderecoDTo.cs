@@ -4,7 +4,7 @@ namespace SenaiApi.DTos
 {
     public class EnderecoDTo
     {
-        public  long id { get; set; }
+        public  long Id { get; set; }
         [MaxLength(80)]
         public string Rua { get; set; }
         [MaxLength(60)]
