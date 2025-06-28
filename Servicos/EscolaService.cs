@@ -42,10 +42,16 @@ namespace SenaiApi.Servicos
 
             _escolaRepositorio.Salvar(escola);
         }
+<<<<<<< HEAD
         public EscolaDTo ObterPorId(long id)
         {
             var escola = _mapper.Map<EscolaDTo>(_escolaRepositorio.ObterPorId(id));
             return escola;
+=======
+        public Escola ObterPorId(long id)
+        {
+            return _escolaRepositorio.ObterPorId(id);
+>>>>>>> 4f301aef773ab96097617c0c9cfe844c815e4772
         }
     }
 }

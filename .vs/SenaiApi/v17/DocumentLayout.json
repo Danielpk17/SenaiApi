@@ -55,8 +55,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-14T13:12:14.981Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "Controllers\\EscolaController.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAiwC0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T11:06:58.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T11:06:58.764Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "Repositorios\\EscolaRepositorio.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:26:02.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T14:26:02.021Z"
             },
             {
               "$type": "Document",
@@ -107,8 +104,7 @@
               "RelativeToolTip": "Servicos\\EnderecoServico.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAASwCQAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:08:50.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T14:08:50.304Z"
             },
             {
               "$type": "Document",
@@ -120,8 +116,7 @@
               "RelativeToolTip": "Servicos\\EscolaService.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAiwDAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:06:49.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T14:06:49.024Z"
             },
             {
               "$type": "Document",
@@ -133,8 +128,7 @@
               "RelativeToolTip": "Entidades\\Endereco.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T13:59:34.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T13:59:34.88Z"
             },
             {
               "$type": "Document",
@@ -146,8 +140,7 @@
               "RelativeToolTip": "DTos\\EscolaDTo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T13:20:25.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T13:20:25.683Z"
             }
           ]
         }

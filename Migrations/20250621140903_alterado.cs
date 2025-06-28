@@ -21,7 +21,11 @@ namespace SenaiApi.Migrations
             //    oldMaxLength: 50);
             migrationBuilder.Sql(@"
             ALTER TABLE ""Endereco""
+<<<<<<< HEAD
             ALTER COLUMN ""Cidade"" TYPE integer
+=======
+            ALTER COLUMN ""Cidade"" TYPE interger
+>>>>>>> 4f301aef773ab96097617c0c9cfe844c815e4772
             USING ""Cidade""::integer;
             ");
         }
