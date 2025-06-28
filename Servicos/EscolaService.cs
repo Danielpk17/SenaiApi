@@ -17,10 +17,11 @@ namespace SenaiApi.Servicos
             _mapper = mapper;
             _escolaRepositorio = escolaRepositorio;
         }
-        public void Salvar(EscolaDTo escolaDTo)
+        public Escola Salvar(EscolaDTo escolaDTo)
         {
             var escola = _mapper.Map<Escola>(escolaDTo);
             _escolaRepositorio.Salvar(escola);
+            return escola;
         }
 
         public List<EscolaDTo> BuscarTodos()
@@ -40,6 +41,11 @@ namespace SenaiApi.Servicos
             _mapper.Map(model, escola);
 
             _escolaRepositorio.Salvar(escola);
+        }
+        public EscolaDTo ObterPorId(long id)
+        {
+            var escola = _mapper.Map<EscolaDTo>(_escolaRepositorio.ObterPorId(id));
+            return escola;
         }
     }
 }

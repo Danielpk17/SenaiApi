@@ -34,7 +34,7 @@ namespace SenaiApi.Servicos
         }
         public void Editar(EnderecoDTo model)
         {
-            var endereco = _enderecoRepositorio.ObterPorId(model.id);
+            var endereco = _enderecoRepositorio.ObterPorId(model.Id);
             _mapper.Map(model, endereco);
 
             _enderecoRepositorio.Salvar(endereco);

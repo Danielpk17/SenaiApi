@@ -32,7 +32,7 @@ namespace SenaiApi.Repositorios
 
         public Escola ObterPorId(long id)
         {
-            return base.ObterPorId(id);
+            return _context.Escola.Include(c => c.Endereco).FirstOrDefault(c => c.Id == id);
         }
     }
 }

@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System.Security.Cryptography.X509Certificates;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using SenaiApi.DTos;
 using SenaiApi.Entidades;
 using SenaiApi.Servicos.Interface;
@@ -14,9 +16,10 @@ namespace SenaiApi.Controllers
             _escolaService = escolaService;
         }
         [HttpPost]
-
-        public IActionResult Adicionar(EscolaDTo escola)
+        public IActionResult Salvar([FromBody] EscolaDTo escola)
         {
+            if (escola == null)
+                return BadRequest("Escola não pode ser nula");
             _escolaService.Salvar(escola);
             return Ok();
         }
@@ -35,17 +38,11 @@ namespace SenaiApi.Controllers
             return Ok();
         }
 
-        [HttpPost]
-        [Route("Editar")]
-        public IActionResult Editar([FromBody] EscolaEdicaoDTo escolaEdicao)
+        [HttpGet("ObterPorId")]
+        public IActionResult ObterPorId(long id)
         {
-            if (escolaEdicao == null)
-            {
-                return BadRequest("Escola não pode ser nula");
-                _escolaService.Editar(escolaEdicao);
-            }
-            return Ok();
-               
-        }   
+            var escolas = _escolaService.ObterPorId(id);
+            return Ok(escolas);
+        }
     }
 }
